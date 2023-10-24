@@ -1,7 +1,7 @@
 # TicTacToe
 This Python code implements a simple text-based Tic-Tac-Toe game. Tic-Tac-Toe, also known as Noughts and Crosses, is a two-player game where the objective is to be the first to place three of your marks (either "X" or "O") in a row, column, or diagonal on a 3x3 grid.
 
-User Manual:
+Description:
 
 Setting up the Game:
 
