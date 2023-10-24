@@ -46,6 +46,9 @@ How to Play:
 
 Run the Python script in a terminal or IDE that supports input.
 
+![image](https://github.com/SreeVatt/TicTacToe-Game/assets/91870603/889571c0-2959-448a-b1fb-382dfe7908b8)
+
+
 Players take turns entering their moves by specifying a position on the board (1-9). For example, entering "5" will place the current player's marker in the middle of the board.
 
 The game continues until a player wins or the board is full (draw). The winner is announced, or the game ends in a draw. 
