@@ -25,6 +25,7 @@ The check_win(player) function checks if the player has won by examining rows, c
 Checking for a Draw:
 
 The is_board_full() function checks if the game board is full of markers, indicating a draw. It returns True if there are no more empty spaces.
+
 ![image](https://github.com/SreeVatt/TicTacToe-Game/assets/91870603/a293b525-4621-4ab4-963d-3a695919f3be)
 
 
