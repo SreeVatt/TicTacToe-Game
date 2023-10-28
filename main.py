@@ -10,7 +10,7 @@ def print_board():
     print(f'{board[3]} | {board[4]} | {board[5]}')
     print(' _  _  _')
     print(f'{board[6]} | {board[7]} | {board[8]}')
-
+ 
         
 def check_win(player):
 
