@@ -13,7 +13,7 @@ def print_board():
  
         
 def check_win(player):
-
+ 
     for i in range(3):
         if (board[i] == board[i+3] == board[i+6] == player) or \
            (board[i*3] == board[i*3+1] == board[i*3+2] == player):
